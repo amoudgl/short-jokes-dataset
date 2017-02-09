@@ -1,6 +1,6 @@
 #short-jokes-dataset
 
-This repository contains all the python scripts used to build [Short Jokes Dataset](https://www.kaggle.com/abhinavmoudgil95/short-jokes-dataset). The dataset contains 231,657 short jokes scraped from various websites. 
+This repository contains all the python scripts used to build [Short Jokes](https://www.kaggle.com/abhinavmoudgil95/short-jokes) dataset. The dataset contains 231,657 short jokes scraped from various websites. 
 
 All the web scraper scripts are present in the `/scripts/scrapers/` folder. These scripts are written for specific websites (website link mentioned in the header of each file) and they generate csv files of jokes in `/data/` folder with the fixed format: `ID, Joke`. 
 
