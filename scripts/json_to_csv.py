@@ -24,7 +24,7 @@ import json
 import unicodedata
 import csv
 
-# reddit-jokes-jsondump can be downloaded from http://
+# reddit-jokes-jsondump can be downloaded from https://www.mediafire.com/folder/7jj7iemb69shh/Reddit_Dumps
 # contains json files of reddit /r/jokes posts from 25 Jan 2008 to 31 Jan 2017
 folder_path = '../reddit-jokes-jsondump/'
 files = os.listdir(folder_path)
