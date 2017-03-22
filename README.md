@@ -1,4 +1,4 @@
-#short-jokes-dataset
+# short-jokes-dataset
 
 This repository contains all the python scripts used to build [Short Jokes](https://www.kaggle.com/abhinavmoudgil95/short-jokes) dataset. The dataset contains 231,657 short jokes scraped from various websites. 
 
